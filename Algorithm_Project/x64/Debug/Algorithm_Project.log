@@ -1,0 +1,48 @@
+﻿  Bowtie.c
+c:\users\admin\source\repos\algorithm_project\algorithm_project\bowtie.c(85): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\admin\source\repos\algorithm_project\algorithm_project\bowtie.c(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\admin\source\repos\algorithm_project\algorithm_project\bowtie.c(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\admin\source\repos\algorithm_project\algorithm_project\bowtie.c(115): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\admin\source\repos\algorithm_project\algorithm_project\bowtie.c(87): warning C4101: 'j': unreferenced local variable
+c:\users\admin\source\repos\algorithm_project\algorithm_project\bowtie.c(205): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\admin\source\repos\algorithm_project\algorithm_project\bowtie.c(233): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+  FileHandler.c
+c:\users\admin\source\repos\algorithm_project\algorithm_project\filehandler.c(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\admin\source\repos\algorithm_project\algorithm_project\filehandler.c(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\admin\source\repos\algorithm_project\algorithm_project\filehandler.c(32): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\admin\source\repos\algorithm_project\algorithm_project\filehandler.c(121): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\admin\source\repos\algorithm_project\algorithm_project\filehandler.c(124): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\admin\source\repos\algorithm_project\algorithm_project\filehandler.c(115): warning C4101: 'tmp': unreferenced local variable
+c:\users\admin\source\repos\algorithm_project\algorithm_project\filehandler.c(115): warning C4101: 'i': unreferenced local variable
+c:\users\admin\source\repos\algorithm_project\algorithm_project\filehandler.c(141): warning C4013: 'getRandomNumber' undefined; assuming extern returning int
+c:\users\admin\source\repos\algorithm_project\algorithm_project\filehandler.c(213): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\admin\source\repos\algorithm_project\algorithm_project\filehandler.c(238): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\admin\source\repos\algorithm_project\algorithm_project\filehandler.c(245): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\admin\source\repos\algorithm_project\algorithm_project\filehandler.c(255): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+  main.c
+c:\users\admin\source\repos\algorithm_project\algorithm_project\main.c(30): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\admin\source\repos\algorithm_project\algorithm_project\main.c(143): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+c:\users\admin\source\repos\algorithm_project\algorithm_project\main.c(65): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\admin\source\repos\algorithm_project\algorithm_project\main.c(71): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\admin\source\repos\algorithm_project\algorithm_project\main.c(148): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\admin\source\repos\algorithm_project\algorithm_project\main.c(154): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+  Generating Code...
+c:\users\admin\source\repos\algorithm_project\algorithm_project\bowtie.c(202): warning C4715: 'lf': not all control paths return a value
+  Algorithm_Project.vcxproj -> C:\Users\Admin\source\repos\Algorithm_Project\x64\Debug\Algorithm_Project.exe
